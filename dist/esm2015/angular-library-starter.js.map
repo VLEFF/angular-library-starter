@@ -1,0 +1,1 @@
+{"version":3,"file":"angular-library-starter.js","sourceRoot":"","sources":["package/angular-library-starter.ts"],"names":[],"mappings":";;;;;;;AAIA,2DAAc,cAAc,CAAC","sourcesContent":["/**\n * Generated bundle index. Do not edit.\n */\n\nexport * from './public_api';\n"]}
